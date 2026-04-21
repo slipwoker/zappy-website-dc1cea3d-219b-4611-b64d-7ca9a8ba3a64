@@ -1,35 +1,45 @@
-# Business — Generative Engine Optimization Map
+# RingYouth — Generative Engine Optimization Map
+
+> A website intended to list or share phone numbers of children and teenagers aged 12-18. This type of service raises serious privacy and safety concerns regarding minors.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://ringyouth.zappy5.app
 A website intended to list or share phone numbers of children and teenagers aged 12-18. This type of service raises serious privacy and safety concerns regardin
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ringyouth.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ringyouth.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ringyouth.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About RingYouth
+A website intended to list or share phone numbers of children and teenagers aged 12-18. This type of service raises serious privacy and safety concerns regarding minors.
+
+## Target Audience
+ילדים ובני נוער בגילאי 12-18
+
+## Industry
+שירותי מידע / רשתות חברתיות לנוער
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://ringyouth.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ringyouth.zappy5.app/robots.txt
