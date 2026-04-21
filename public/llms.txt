@@ -1,6 +1,4 @@
-# RingYouth — Generative Engine Optimization Map
-
-> A website intended to list or share phone numbers of children and teenagers aged 12-18. This type of service raises serious privacy and safety concerns regarding minors.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,15 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About RingYouth
-A website intended to list or share phone numbers of children and teenagers aged 12-18. This type of service raises serious privacy and safety concerns regarding minors.
-
-## Target Audience
-ילדים ובני נוער בגילאי 12-18
-
-## Industry
-שירותי מידע / רשתות חברתיות לנוער
-
+## About Business
 ---
 
 # Additional Resources
